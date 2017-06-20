@@ -1,0 +1,67 @@
+## Basic Configuration
+
+baseurl = "https://roblesnotes.com/hugo-goa-demo/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Felix Robles"
+title = "Felix Robles"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-roblesnores-com" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Felix Robles"
+intro = "Startup Guru Extraordinaire"
+description = "Now @nVotes. Previously @Wacom_UK, @Sogeti_Luxembourg and @Airbus_Military.<br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "Findeton"
+#instagram = "<username>"
+linkedin = "félix-robles-elvira-225b1624"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+#stackoverflow = "<username>"
+email = "felrobelv@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Félix Robles. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
