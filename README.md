@@ -9,7 +9,11 @@ My own personal webpage
 
 ## deploy
 
-    hugo
+    git clone https://github.com/Findeton/roblesnotes.git
+    cd themes
+    git clone https://github.com/shenoybr/hugo-goa.git
+    cd ..
+    hugo -v
 
 ## test
 
