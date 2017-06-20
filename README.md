@@ -10,7 +10,7 @@ My own personal webpage
 ## deploy
 
     git clone https://github.com/Findeton/roblesnotes.git
-    cd themes
+    cd roblesnotes/themes
     git clone https://github.com/shenoybr/hugo-goa.git
     cd ..
     hugo -v
