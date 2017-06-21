@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Felix Robles"
-title = "Felix Robles"
+author = "Félix Robles"
+title = "Félix Robles"
 
 theme = "hugo-goa"
 
@@ -21,32 +21,32 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Felix Robles"
-intro = "Startup Guru Extraordinaire"
+author = "Félix Robles"
+intro = "Startup & VR Enthusiast, Developer"
 description = "Now @nVotes. Previously @Wacom_UK, @Sogeti_Luxembourg and @Airbus_Military.<br/> \"What is F times 5? It's Fleventy-five.\""
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Startup Guru Extraordinaire"
-keywords = "startup,vr,guru,programming,developer"
+description = "Startup & VR Enthusiast, Developer"
+keywords = "startup,vr,enthusiast,developer,programming,javascript,cpp,gpu,scala"
 
 ## Social Accounts
 [params.social]
 github = "Findeton"
-#instagram = "<username>"
+instagram = "<username>"
 linkedin = "félix-robles-elvira-225b1624"
 twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-#stackoverflow = "<username>"
-email = "felrobelv@gmail.com"
+facebook = "felix.robles.568"
+google = "+FélixRobles"
+stackoverflow = "<username>"
+email = "felrobelv AT gmail DOT com"
 
 ## Extras
 [params.extra]
 copyright = "© 2017. Félix Robles. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = true
+poweredby = false
 hightlightjs = true
 
 ## Main Menu
