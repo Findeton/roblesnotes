@@ -46,7 +46,7 @@ email = "felrobelv AT gmail DOT com"
 ## Extras
 [params.extra]
 copyright = "© 2017. Félix Robles. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = false
+poweredby = true
 hightlightjs = true
 
 ## Main Menu
